@@ -26,6 +26,5 @@ Pada sisi pemetaan, MAGELUX menggunakan Leaflet.js sebagai library peta interakt
 ![image](https://github.com/user-attachments/assets/03bad05a-e254-4dad-a849-ce1055d96bf2)
 ![image](https://github.com/user-attachments/assets/a00a6eac-412a-4eb4-8d43-22853907d2ae)
 ![image](https://github.com/user-attachments/assets/24cae859-740b-4b54-89d6-21c211625d86)
-![image](https://github.com/user-attachments/assets/fad68bfa-4aa1-4f81-b364-e056b2456e8f)
 
 Jelajahi pesona wisata Kota Magelang secara interaktif dan menyenangkan melalui platform MAGELUX!
